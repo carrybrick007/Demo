@@ -1,0 +1,5 @@
+com\xxx\Demo\DemoStarter.class
+com\xxx\Demo\model\UserVO.class
+com\xxx\Demo\control\TestControl.class
+com\xxx\Demo\wp\WPTest.class
+com\xxx\Demo\utils\MyFile.class
