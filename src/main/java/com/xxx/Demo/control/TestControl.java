@@ -17,7 +17,7 @@ public class TestControl {
 	@RequestMapping(value="/getMessage",method=RequestMethod.GET,produces = "application/json;charset=UTF-8")
 	public String getMessage(String message) {
 		System.out.println(message);
-		System.out.println();
+		System.out.println("branch1");
 		return "helloworld "+message;
 
 	}
