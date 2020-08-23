@@ -18,6 +18,7 @@ public class TestControl {
 	public String getMessage(String message) {
 		System.out.println(message);
 		System.out.println("reset hard");
+		System.out.println("222");
 		return "helloworld "+message;
 
 	}
